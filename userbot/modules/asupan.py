@@ -2,10 +2,10 @@
 # ⚠️ Do not remove credits
 
 
-from userbot import CMD_HANDLER as cmd, CMD_HELP
-from userbot.utils import toni_cmd
+from pyUltroid import CMD_HANDLER as cmd, CMD_HELP
+from pyUltroid.utils import toni_cmd
 import random
-from userbot import owner
+from pyUltroid import owner
 from telethon.tl.types import InputMessagesFilterVideo
 
 
